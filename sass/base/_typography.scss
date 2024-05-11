@@ -19,7 +19,7 @@ body {
     animation: moveInLeft 1s ease-out;
     @include respond(phone) {
       letter-spacing: 1rem;
-      font-size: rem;
+      font-size: 5rem;
     }
   }
   &--sub {
